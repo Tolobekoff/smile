@@ -1,0 +1,79 @@
+.btn {
+    padding: 20px 40px;
+    border-radius: 30px;
+    background: yellow;
+    border: 1.5px solid rgb(37, 212, 37);
+    
+  }
+  .btn1 {
+    padding: 20px 40px;
+    border-radius: 30px;
+    background: greenyellow;
+    border: 1.5px solid rgb(37, 212, 37);
+  }
+  .btn2 {
+    padding: 20px 40px;
+    border-radius: 30px;
+    background: rgb(245, 21, 21);
+    border: 1.5px solid rgb(37, 212, 37);
+  }
+  .btn3 {
+    padding: 20px 40px;
+    border-radius: 30px;
+    background: rgb(16, 149, 226);
+    border: 1.5px solid rgb(37, 212, 37);
+  }
+ .div {
+    position: relative;
+  margin: 70px;
+  width: 200px;
+  height: 200px;
+  background: yellow;
+  border-radius: 50%;
+  border: 2px solid black;
+  transition: width 1s, height 1s, background-color 1s;
+ /* transform: rotate(90deg); */
+ 
+ 
+ }
+ .h1{
+   font-size: 60px;
+    position: absolute;
+    top: 120px;
+    left: 120px;
+ }
+ .h2{
+   font-size: 60px;
+    position: absolute;
+    top: 120px;
+    left: 190px;
+ }
+ .img {
+    position: absolute;
+    top: 250px;
+    left: 155px;
+    width: 50px;
+    display: block;
+    z-index: +2;
+ }
+ .smile {
+    position: absolute;
+    top: 250px;
+    left: 140px;
+    width: 80px;
+    display: block;
+    z-index: +1 ;
+ }
+.sad{
+   position: absolute;
+   top: 250px;
+   left: 140px;
+   width: 80px;
+   display: block;
+   z-index: +3 ;
+
+}
+ 
+ 
+
+ 
